@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\Lesson12task1\Lesson12task1\bin\Debug\Lesson12task1.exe.config
+C:\Users\Admin\source\repos\Lesson12task1\Lesson12task1\bin\Debug\Lesson12task1.exe
+C:\Users\Admin\source\repos\Lesson12task1\Lesson12task1\bin\Debug\Lesson12task1.pdb
+C:\Users\Admin\source\repos\Lesson12task1\Lesson12task1\obj\Debug\Lesson12task1.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Lesson12task1\Lesson12task1\obj\Debug\Lesson12task1.exe
+C:\Users\Admin\source\repos\Lesson12task1\Lesson12task1\obj\Debug\Lesson12task1.pdb
